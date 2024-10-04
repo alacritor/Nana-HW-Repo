@@ -1,0 +1,11 @@
+print(snapshots['Snapshots'])
+
+
+for snap in snapshots ['Snapshots']:
+    print(snap['StartTime'])
+    
+print('###########')
+
+for snap in sorted_by_date:
+    print(snap['StartTime'])
+   
